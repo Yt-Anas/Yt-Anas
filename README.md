@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yt-Anas
 - 👀 Keep calm and Coding
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently a Front End Developer
 - 💞️ I want to become a full stack Developer
 - 📫 You can reach me through Insta username : Yt_.anas
 
