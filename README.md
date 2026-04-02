@@ -13,13 +13,13 @@ Focused on building stable environments, automating workflows, and improving dep
 
 ## 🛠️ Technical Skills
 
-- **Cloud:** AWS (EC2, IAM, VPC, S3, Route53, CloudWatch, RDS, ECR)
-- **CI/CD:** Jenkins, GitHub Actions, AWS CodePipeline
+- **Cloud:** AWS (EC2, IAM, VPC, S3, Route53, CloudWatch)
+- **CI/CD:** Jenkins, GitHub Actions
 - **Containerization:** Docker, AWS ECS
 - **Infrastructure as Code:** Terraform, CloudFormation
-- **Monitoring & Logging:** Prometheus, Grafana, CloudWatch
+- **Monitoring & Logging:** Prometheus, Grafana
 - **Security:** IAM, HTTPS/SSL, access control
-- **Networking:** VPC, Subnets, Load Balancers, NAT
+- **Networking:** VPC, Subnets, Load Balancers
 - **Scripting:** Bash, Python(Basic)
 - **Other:** Git, Troubleshooting, Cost Optimization
 
