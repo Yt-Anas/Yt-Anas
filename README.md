@@ -37,19 +37,38 @@ Focused on building stable environments, automating workflows, and improving dep
   
 ---
 
-## 🚀 DevOps Work & Projects
+## 🚀 DevOps Projects
 
-### 🔹 Cloud Infrastructure Setup & Management
-Designed and managed AWS infrastructure for multiple applications, including EC2 instances, VPC setup, load balancers, and database services.
+### 🔹 Scalable Microservices Deployment on AWS (EKS)
 
-Handled environment setup (dev, staging, production) ensuring proper network configuration, security groups, and access control.
+Designed and deployed a scalable microservices architecture using Docker and Kubernetes (EKS) on AWS.
+
+- Deployed containerized applications using Docker and Kubernetes
+- Implemented auto-scaling and load balancing for high availability
+- Managed deployments using Helm charts for better configuration and version control
+- Configured NGINX Ingress Controller for routing and traffic management
+- Built CI/CD pipelines using Jenkins and GitHub Actions
+- Implemented monitoring using Prometheus and Grafana
+
+**Impact:**
+- Achieved high availability and zero-downtime deployments  
+- Improved scalability of microservices architecture  
 
 ---
 
-### 🔹 CI/CD Pipeline Implementation
-Built and maintained CI/CD pipelines using Jenkins, GitHub Actions, and AWS CodePipeline.
+### 🔹 Production Monitoring & Incident Management
 
-Automated build, test, and deployment workflows to reduce manual effort and improve release speed.
+Built a monitoring and alerting system to improve system reliability and response time.
+
+- Implemented monitoring using Prometheus, Grafana, and AWS CloudWatch
+- Set up centralized logging and alerting
+- Detected failures and performance issues proactively
+- Handled production incidents and performed root cause analysis (RCA)
+- Optimized system performance using logs and metrics
+
+**Impact:**
+- Reduced incident response time by 30%  
+- Improved overall system stability and reliability
 
 ---
 
