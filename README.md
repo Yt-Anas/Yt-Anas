@@ -53,41 +53,6 @@ Automated build, test, and deployment workflows to reduce manual effort and impr
 
 ---
 
-### 🔹 Application Deployment & Containerization
-Containerized applications using Docker and deployed them on AWS ECS.
-
-Ensured consistency across environments and simplified deployment processes.
-
----
-
-### 🔹 Monitoring & Logging Setup
-Implemented monitoring using Prometheus, Grafana, and AWS CloudWatch.
-
-Set up alerts and dashboards to track system health and proactively identify issues.
-
----
-
-### 🔹 Production Support & Troubleshooting
-Handled production issues, performed root cause analysis, and resolved deployment or infrastructure-related problems.
-
-Worked on improving system stability and reducing downtime.
-
----
-
-### 🔹 Security & Access Management
-Configured IAM roles and policies, managed secure access, and implemented HTTPS/SSL for applications.
-
-Ensured systems follow secure and controlled access practices.
-
----
-
-### 🔹 Cost Optimization & Resource Management
-Monitored AWS usage and optimized resources to reduce unnecessary costs.
-
-Managed instance sizing and usage based on application needs.
-
----
-
 ## 📫 Connect With Me
 
 - 💼 LinkedIn: https://linkedin.com/in/devops-anas
